@@ -1,15 +1,15 @@
 # K-Drama Popularity Analysis
 
 ## Overview
-This project dives into what makes Korean dramas popular by analyzing various data points and presenting the findings visually. Using Python and Power BI, the goal was to identify patterns in ratings, genres, and the networks behind these dramas, helping to uncover what truly influences a show's success.
+This project explores what influences the popularity of Korean dramas by analyzing data related to ratings, genres, and production networks. The idea was to move beyond raw numbers and understand patterns that explain why certain dramas perform better than others. Python was used for analysis, and Power BI was used to present the findings through an interactive dashboard.
 
 ---
 
 ## Objectives
-- Explore how ratings differ across different drama titles  
-- Find out which genres tend to perform better consistently  
-- Understand the impact of production networks on popularity  
-- Create an interactive dashboard to clearly communicate these insights  
+- Analyze how ratings vary across different dramas  
+- Identify genres that consistently perform well  
+- Understand the role of production networks in popularity  
+- Build a dashboard to present insights in a clear and interactive way  
 
 ---
 
@@ -21,42 +21,42 @@ This project dives into what makes Korean dramas popular by analyzing various da
 ---
 
 ## Dashboard Preview
+
 ### Overview
 ![Overview](Images/overview.jpg)
 
 <br>
 
 ### Network Insights
-![Network](Images/network_insights.jpg)
+![Network Insights](Images/network_insights.jpg)
 
 <br>
 
 ### Rating Analysis
-![Ratings](Images/rating_analysis.jpg)
-
+![Rating Analysis](Images/rating_analysis.jpg)
 
 ---
 
 ## Project Structure
 K_DRAMA_POPULARITY_PROJECT/  
-&nbsp;&nbsp;&nbsp;&nbsp;├── dataset/ — Raw and cleaned data  
-&nbsp;&nbsp;&nbsp;&nbsp;├── python/ — Analysis scripts  
-&nbsp;&nbsp;&nbsp;&nbsp;├── powerbi/ — Dashboard file  
-&nbsp;&nbsp;&nbsp;&nbsp;└── Images/ — Visual assets  
+├── dataset/ — Raw and cleaned datasets  
+├── python/ — Data analysis scripts  
+├── powerbi/ — Power BI dashboard file  
+└── Images/ — Dashboard screenshots  
 
 ---
 
 ## Key Insights
-- Certain networks consistently produce higher-rated dramas, highlighting the influence of production quality and resources  
-- Genre plays a significant role in shaping audience preferences and ratings  
-- The distribution of ratings shows clear patterns, indicating common viewer response trends  
+- Some networks consistently produce higher-rated dramas, suggesting strong influence in content quality and reach  
+- Genre plays a key role in popularity, with certain categories attracting more stable audience ratings  
+- Ratings tend to follow a pattern, indicating common viewer preferences across different shows  
 
 ---
 
 ## Future Improvements
-- Develop a machine learning model to predict a drama's potential popularity  
-- Deploy the dashboard for broader access and interactivity  
-- Automate data collection and preprocessing to keep insights up to date  
+- Build a machine learning model to predict drama popularity  
+- Make the dashboard accessible online  
+- Automate data collection and updates  
 
 ---
 
