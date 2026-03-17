@@ -22,14 +22,9 @@ This project dives into what makes Korean dramas popular by analyzing various da
 
 ## Dashboard Preview
 
-### Overview  
-![Overview](Images/Overview.jpg)
-
-### Network Insights  
-![Network](Images/Network Insights.jpg)
-
-### Rating Analysis  
-![Ratings](Images/Rating Analysis.jpg)
+![Overview](Images/overview.jpg)
+![Network](Images/network_insights.jpg)
+![Ratings](Images/rating_analysis.jpg)
 
 ---
 
