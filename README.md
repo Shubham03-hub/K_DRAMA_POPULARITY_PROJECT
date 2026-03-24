@@ -63,3 +63,4 @@ K_DRAMA_POPULARITY_PROJECT/
 ## Author  
 Shubham Panchal  
 Aspiring Data Scientist & Analyst | Python | SQL | Machine Learning | EDA | Data Visualization | AI Projects  
+LinkedIn: www.linkedin.com/in/shubham-panchal-a100282a8
